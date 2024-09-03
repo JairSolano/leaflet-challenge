@@ -12,3 +12,4 @@ Also there is a legend showing the depth and their corresponding colors for the 
 
 Each point has a tooltip with the Magnitude, the location and depth.
 
+> > ***I used assistamce from a tutor, Ikaneng and Xpert AI with styling the legend.***
